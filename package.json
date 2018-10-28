@@ -1,8 +1,8 @@
 
 {
-  "name": "brainjs-neural-nets-1",
+  "name": "game-predictor",
   "version": "1.0.0",
-  "description": "",
+  "description": "brainjs neural net game outcome predictor",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
