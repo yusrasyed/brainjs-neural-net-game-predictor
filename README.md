@@ -1,6 +1,6 @@
 # brainjs-neural-net-game-predictor
 
-Simple Game Prediction Neural Network Using Brain.js
+Game Prediction Neural Network Using Brain.js
 
 
 Using tutorial: https://www.youtube.com/watch?v=RVMHhtTqUxc
